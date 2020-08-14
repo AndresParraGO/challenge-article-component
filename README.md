@@ -1,4 +1,4 @@
-# 🥳 Challenge Article Ccomponent
+# 🥳 Challenge Article Component
 
 Challenge of FrontendMentor.io for practice HTML and CSS.
 
